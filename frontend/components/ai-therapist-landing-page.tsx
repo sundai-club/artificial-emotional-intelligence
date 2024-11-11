@@ -3,7 +3,7 @@
 import React from 'react'
 import { Button } from "@/components/ui/button"
 import { Input } from "@/components/ui/input"
-import { Brain, MessageSquare, UserCircle2, UserCog, History, ShieldCheck, Users, Link } from 'lucide-react'
+import { Brain, MessageSquare, UserCircle2, UserCog, History, ShieldCheck, Link } from 'lucide-react'
 
 export function AiTherapistLandingPage() {
   return (
